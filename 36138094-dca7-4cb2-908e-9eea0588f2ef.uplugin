@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UEFestTokyo2026",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"VersePath": "/plepa@fortnite.com/UEFestTokyo2026",
+	"VerseVersion": 1,
+	"EnableVerseAssetReflection": true,
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"UGCLocalizationTargetName": "UEFestTokyo2026",
+	"ValkyrieSettings":
+	{
+		"libraryFolderMode": "Absent",
+		"libraryCustomPath": ""
+	},
+	"VerseAPI": 1,
+	"builtInAutoActivate": false,
+	"EnableSceneGraph": true,
+	"EnableVerseAssetRedirectorReflection": true,
+	"ZenProjectKey": "3606ab09-fac1-4700-8d4a-2861615e95d3"
+}

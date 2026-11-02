@@ -1,0 +1,10 @@
+# CameraSystem の @editable の説明とカテゴリ（ToolTip と Categories に使う）
+CameraCategory<public><localizes>:message = "カメラ"
+FixedFollowDistanceTip<public><localizes>:message = "プレイヤーからカメラまでの距離（cm）。既定 1200"
+FixedFollowPitchTip<public><localizes>:message = "見下ろす角度（度）。マイナスで下を向く。既定 -50"
+OrbitFollowDistanceTip<public><localizes>:message = "プレイヤーからカメラまでの距離（cm）。既定 600"
+OrbitFollowHeightTip<public><localizes>:message = "回り込む中心の高さ（cm）。既定 150"
+LayerBobAmplitudeTip<public><localizes>:message = "上下に揺れる幅（cm）。0 で揺れない。既定 10"
+LayerBobPeriodTip<public><localizes>:message = "1 往復にかける秒数。0.1 未満は 0.1 扱い。既定 1"
+FovDegreesTip<public><localizes>:message = "水平の画角（度）。既定 90"
+ZonePriorityTip<public><localizes>:message = "カメラの優先度。大きいほど優先。既定 100"

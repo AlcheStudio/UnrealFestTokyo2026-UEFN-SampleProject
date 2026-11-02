@@ -1,0 +1,85 @@
+{
+	"fileVersion": 15,
+	"title": "UEFestTokyo2026",
+	"description": "",
+	"keyArt": "Resources/Icon128.png",
+	"docsUrl": "",
+	"apiAccess": "Private",
+	"bindings":
+	{
+		"projectId": "53b7f920-53ec-40e9-809d-9df8c6f33178",
+		"modules":
+		{
+			"36138094-dca7-4cb2-908e-9eea0588f2ef": "36138094-dca7-4cb2-908e-9eea0588f2ef"
+		},
+		"bSuppressAutomaticVersePathAssignment": false,
+		"projectVersePath": "/plepa@fortnite.com/UEFestTokyo2026"
+	},
+	"compatibilityVersion": "43.00",
+	"requiredRedirectorStartingVersion": "42.40.59343437",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "36138094-dca7-4cb2-908e-9eea0588f2ef",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 16,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Public",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"splitscreenDisabled": false,
+			"version": 1
+		},
+		"experimental":
+		{
+			"DefaultPawn":
+			{
+				"bUseDefaultCharacter": true
+			},
+			"sceneGraph":
+			{
+				"bIsSceneGraphSystemAllowed": true,
+				"bEnableOneFilePerEntity": false
+			},
+			"version": 1,
+			"pythonExperimental":
+			{
+				"bEnablePythonForProject": true
+			},
+			"toolsets":
+			{
+				"bEnableToolsetsForProject": true
+			},
+			"inventory":
+			{
+				"bIsCustomInventoryAllowed": true
+			},
+			"sceneGraphExperimentalFeatures":
+			{
+				"bAreSceneGraphExperimentalFeaturesAllowed": true
+			},
+			"assetRedirectorReflectionSetting":
+			{
+				"bAssetRedirectorReflectionSetting": true
+			}
+		}
+	}
+}

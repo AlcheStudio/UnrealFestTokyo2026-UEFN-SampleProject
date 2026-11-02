@@ -1,0 +1,12 @@
+# UEFN のアセットは差分・改行変換をしないバイナリとして扱う
+*.uasset binary
+*.umap binary
+*.png binary
+# テキストは UEFN が書く LF のまま保存する（チェックアウトでも CRLF に変えない）
+*.uplugin text eol=lf
+*.uefnproject text eol=lf
+*.verse text eol=lf
+*.md text eol=lf
+.loreignore text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
